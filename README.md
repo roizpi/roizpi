@@ -33,13 +33,12 @@
 </div>
 
 
-
+<!--
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=roizpi&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" style="height: 200px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roizpi&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;" />
 </div>
-
 
 
 ## 🚀 Projects
@@ -48,6 +47,7 @@
 - **University Work**: Practical projects using C/C++ and Python for coursework and research.
 
 
+-->
 
 ## Profile views Counter
 
