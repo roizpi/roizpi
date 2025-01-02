@@ -72,6 +72,14 @@
 
 
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roizpi&theme=radical&column=8" alt="GitHub Trophies" />
+</div>
+
+
+
 
 ## 📩 Get in Touch
 
