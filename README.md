@@ -62,7 +62,7 @@
   <a href="https://github.com/roizpi">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="[https://stackoverflow.com/users/roizpi](https://stackoverflow.com/users/4262148/roizpi)">
+  <a href="https://stackoverflow.com/users/4262148/roizpi">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" />
   </a>
   <a href="https://medium.com/@roizpi">
