@@ -65,9 +65,7 @@
   <a href="https://stackoverflow.com/users/4262148/roizpi">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" />
   </a>
-  <a href="https://medium.com/@roizpi">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
+ 
 </div>
 
 
